@@ -48,6 +48,8 @@ namespace Tyuiu.SpirinIS.Sprint1.Task7.V0
             Console.WriteLine(ds.Calculate(x, y, z));
             Console.ReadKey();
 
+            // https://github.com/SpirinIgor/Tyuiu.SpirinIS.Sprint1.git
+
         }
     }
 }
